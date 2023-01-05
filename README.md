@@ -5,7 +5,7 @@ This web-based system mainly to manage the online store administration including
 The system is concerning on the delivery and ordering processes to be carried out systematically.
 
 10 Changes Request :
-   1. Sign Up Page
+   1. Sign Up Page - The sign-up button cannot be click
    2. Login Page
    3. Payment Page
    4. Database Page
