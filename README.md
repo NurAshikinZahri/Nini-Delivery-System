@@ -5,10 +5,13 @@ This web-based system mainly to manage the online store administration including
 The system is concerning on the delivery and ordering processes to be carried out systematically.
 
 10 Changes Request :
-   1. Complete the database site
-   2. Login Page 
-   3. Sign Up Page
-   4. Update Product (Adding or Removing Product)
-   5. User Data (Adding or Removing Product)
-   6. Add calendar 
-   7. Upgrade payment site
+   1. Sign Up Page
+   2. Login Page
+   3. Payment Page
+   4. Database Page
+   5. Menu Page
+   6. Cart Page
+   7. Calendar Function
+   8. Notification Function
+   9. User Data Function
+   10. Product Data Function
