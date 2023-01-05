@@ -6,12 +6,12 @@ The system is concerning on the delivery and ordering processes to be carried ou
 
 10 Changes Request :
    1. Sign Up Page - The sign-up button cannot be click
-   2. Login Page
-   3. Payment Page
-   4. Database Page
-   5. Menu Page
-   6. Cart Page
+   2. Login Page - There is some security issue arise when user login into the system
+   3. Payment Page - There is only one options of the payment method
+   4. Database Page - here is some problem occur while the developer try to store new data
+   5. Menu Page - There is some additional information to be added into the system
+   6. Cart Page - The system did not have the add to cart module
    7. Calendar Function - Did not have calendar function
-   8. Notification Function
-   9. User Data Function
-   10. Product Data Function
+   8. Notification Function - The system did not [rovide notification to alert the user
+   9. User Data Function - The system did not provide user data function
+   10. Product Data Function - The system did not provide the user with the data about the product
