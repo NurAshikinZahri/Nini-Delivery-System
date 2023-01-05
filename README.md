@@ -11,7 +11,7 @@ The system is concerning on the delivery and ordering processes to be carried ou
    4. Database Page
    5. Menu Page
    6. Cart Page
-   7. Calendar Function
+   7. Calendar Function - Did not have calendar function
    8. Notification Function
    9. User Data Function
    10. Product Data Function
